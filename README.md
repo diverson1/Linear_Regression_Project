@@ -6,4 +6,4 @@ My goals were:
 * Get comfortable utilizing the command line to navigate to my local repo
 * Utilize the command line to commit and push changes to github
 * Create a seperate brach from main to conduct the project 
-* Merge secondary branch with main uppon completion of project
+* Merge secondary branch with main upon completion of project
