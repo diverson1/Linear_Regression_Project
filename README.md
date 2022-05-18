@@ -5,4 +5,5 @@ My goals were:
 * Create a repo clone on both my mac and windows to work from
 * Get comfortable utilizing the command line to navigate to my local repo
 * Utilize the command line to commit and push changes to github
-* Create a seperate brach from main to conduct the project and merge branches uppon completion 
+* Create a seperate brach from main to conduct the project 
+* Merge secondary branch with main uppon completion of project
