@@ -7,3 +7,6 @@ My goals were:
 * Utilize the command line to commit and push changes to github
 * Create a seperate brach from main to conduct the project 
 * Merge secondary branch with main upon completion of project
+
+Improvements for next project:
+Had to use a force commit to update the master branch with local repo, next time understand why this is and find a better approach for updating remote repo.
